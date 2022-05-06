@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "First post",
+      "content": "Nail ders oxu",
+      "userId": "2",
+      "date": "2022-04-01T11:32:06.955Z",
+      "id": 1
+    },
+    {
+      "title": "Js",
+      "content": "Fidan Yaxsi bilir",
+      "userId": "2",
+      "date": "2022-04-03T12:15:55.747Z",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Team Alwer",
+      "id": 1
+    },
+    {
+      "name": "John Doe",
+      "id": 2
+    },
+    {
+      "name": "Jane Doe",
+      "id": 3
+    }
+  ],
+  "notifications": []
+}
